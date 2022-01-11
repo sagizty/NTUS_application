@@ -1,4 +1,4 @@
 # NTUS_application
 C2217666-ZHANG TIANYI
 
-report files in pdf, coding works and their output are in its original format.
+The report files are in pdf, the coding works and their output are in its original format.
